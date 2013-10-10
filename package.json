@@ -1,0 +1,15 @@
+{
+  "name": "live-table",
+  "version": "0.0.0",
+  "description": "Like cli-table, but alive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Braden <hi@peterbraden.co.uk>",
+  "license": "BSD",
+  "dependencies": {
+    "charm": "~0.1.2",
+    "cli-table": "~0.2.0"
+  }
+}
